@@ -4,7 +4,7 @@
 ### I'm Stephen!
 
 Welcome to my Github page! My name is Stephen, I like to solve problems and make things so coding is how I do both at the same time. 
-Most of my professional life has been keeping tech running 
+Most of my professional life has been keeping tech running. 
 
 
 #### About
