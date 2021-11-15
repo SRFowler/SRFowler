@@ -17,10 +17,6 @@ Most of my professional life has been keeping tech running.
 - Publishing an HTML5 game
 
 
-#### 🌱 I’m currently learning:
-- React
-- ASP.NET
-
 #### 🖥️ Programming languages:
 - HTML5 Stack
   - HTM5
@@ -34,9 +30,7 @@ Most of my professional life has been keeping tech running.
 
 #### 🧰 Tools:
 - MySQL
+- MSSQL
 - Visual Studio
 - Visual Studio Code
 - Node
-
-#### 📫 How to reach me: 
-- stephanRfowler@gmail.com
