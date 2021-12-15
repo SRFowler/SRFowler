@@ -11,11 +11,6 @@ Most of my professional life has been keeping tech running.
 - 😄 Pronouns: He/Him
 - 🌎 Location: Miami, Florida, Unites States
 
-#### 🔭 I’m currently working on:
-- ~~Software Development Degree~~ 🎉 Finished!
-- Coding 3 - 4 hours per day
-- Publishing an HTML5 game
-
 
 #### 🖥️ Programming languages:
 - HTML5 Stack
@@ -26,11 +21,12 @@ Most of my professional life has been keeping tech running.
 - C# 
    - With XAML
 - Python
-- Some more I am familiar with but don't use often
+- Elixir (Learning 🏫)
+- Some more I am familiar with but don't use often (Ruby, PHP, C++... etc)
 
 #### 🧰 Tools:
 - MySQL
-- MSSQL
+- MSSQL with SSMS (A lot)
 - Visual Studio
 - Visual Studio Code
 - Node
